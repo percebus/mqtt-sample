@@ -1,2 +1,3 @@
 # mqtt-sample
-MQTT random Publisher to broker (mosquitto) 
+
+MQTT random Publisher to broker (mosquitto)

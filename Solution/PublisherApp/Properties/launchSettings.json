@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PublisherApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "USER_NAME": "joe",
+        "USER_PASSWORD": "m3r0w"
+      }
+    }
+  }
+}
