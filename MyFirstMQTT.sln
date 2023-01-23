@@ -9,10 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		docker-compose.yml = docker-compose.yml
+		package-lock.json = package-lock.json
+		package.json = package.json
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerCompose", "Solution\DockerCompose\DockerCompose.csproj", "{89A3933F-1143-46D1-9C65-37C54213EAD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockerCompose", "Solution\DockerCompose\DockerCompose.csproj", "{89A3933F-1143-46D1-9C65-37C54213EAD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
